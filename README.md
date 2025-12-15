@@ -1,2 +1,2 @@
 # IN2000
-Gruppeprosjekt 
+Gruppeprosjekt. TBA.
